@@ -1,0 +1,6 @@
+langchain
+langchain_community
+selenium==4.23.1
+pdfkit
+webdriver-manager
+pypdf
